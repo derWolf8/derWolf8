@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derWolf8
 - 👀 I’m interested in aircraft performance and propulsion system engineering, programming, data analytics and ML
-- 🌱 I’m currently doing the CS50 course
+- 🌱 I have recently finished the CS50 course
 - 📫 How to reach me - 
   - LinkedIn: https://www.linkedin.com/in/samarth-srivastava-008/
   - Twitter: https://twitter.com/samarth_08
